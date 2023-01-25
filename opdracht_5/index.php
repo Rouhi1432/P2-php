@@ -34,6 +34,7 @@
         <label for="wachtwoord">Wachtwoord:</label><br>
         <input type="password" id="wachtwoord" name="wachtwoord"><br>
         <input type="submit" value="Verzenden">
+        
     </form>
 
 </body>
