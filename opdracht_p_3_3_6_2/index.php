@@ -20,7 +20,8 @@
     if ($_COOKIE['cookietime'] <= $_SESSION['sessiontime']) {
         $_COOKIE['cookietime'] = $_SESSION['sessiontime'];
     }
-    echo 'U heeft de pagina in totaal ' . $_COOKIE['cookietime'] . ' keer bezocht.';
+    echo 'U heeft de pagina in
+     totaal ' . $_COOKIE['cookietime'] . ' keer bezocht.';
     ?>
 </body>
 
